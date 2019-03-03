@@ -1,0 +1,20 @@
+{
+  "name": "ready-ui-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guochun/ready-ui-react.git"
+  },
+  "keywords": [],
+  "author": "purcy <purcyguo@gmail.com> (https://github.com/guochun)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guochun/ready-ui-react/issues"
+  },
+  "homepage": "https://github.com/guochun/ready-ui-react#readme"
+}
